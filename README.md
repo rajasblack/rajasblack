@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rajesh Kumar
-- 👀 I’m a Technologist
 - 🌱 Interested in NLU models and Document Ingestion
 - 💞️ Looking to collaborate on Deep Learning projects
 - 📫 You can reach me on my profile.
